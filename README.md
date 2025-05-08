@@ -18,7 +18,7 @@ A cryptocurrency tracking application that allows users to search, filter, and s
 ## Tech Stack
 
 ### Frontend
-- **React**: A JavaScript library for building user interfaces.
+- **Next JS**: A React Framework for building user interfaces.
 - **Redux Toolkit**: For state management.
 - **TypeScript**: For type safety and better developer experience.
 - **Tailwind CSS**: For styling and responsive design.
